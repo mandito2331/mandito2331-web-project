@@ -1,0 +1,35 @@
+body {
+background-color: #f4f4f4;
+font-family: Arial;
+padding: 20px;
+}
+
+h1 {
+color: darkblue;
+}
+
+h2 {
+color: darkgreen;
+}
+
+p {
+color: black;
+}
+
+nav a {
+margin-right: 10px;
+}
+
+button {
+padding: 8px;
+background-color: blue;
+color: white;
+border: none;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+body {
+background-color: lightgray;
+}
+}
