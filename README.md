@@ -16,4 +16,4 @@ This project is a responsive and accessible website created for GreenTech Soluti
 - JavaScript
 
 ## How to Run
-Open index.html in a web browser.
+Open Index.html in a web browser.
